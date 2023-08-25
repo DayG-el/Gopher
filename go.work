@@ -1,0 +1,4 @@
+go 1.20
+use ./01-DataTypes/Integer
+use ./01-DataTypes/enums
+use ./01-DataTypes/pointers
