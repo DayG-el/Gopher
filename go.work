@@ -2,3 +2,7 @@ go 1.20
 use ./01-DataTypes/Integer
 use ./01-DataTypes/enums
 use ./01-DataTypes/pointers
+use ./02-Variables/declaration
+use ./02-Variables/constants
+use ./02-Variables/scope
+use ./02-Variables/examples
