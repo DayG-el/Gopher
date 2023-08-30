@@ -6,3 +6,4 @@ use ./02-Variables/declaration
 use ./02-Variables/constants
 use ./02-Variables/scope
 use ./02-Variables/examples
+use ./02-Variables/func

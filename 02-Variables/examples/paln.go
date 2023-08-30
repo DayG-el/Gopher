@@ -11,6 +11,7 @@ func prepareString(s string) string {
 	s = strings.ReplaceAll(s, " ", "")
 	s = strings.ReplaceAll(s, ",", "")
 	s = strings.ReplaceAll(s, "!", "")
+
 	return s
 }
 
@@ -21,6 +22,7 @@ func isPalindrome(s string) bool {
 	for i := 0; i < length/2; i++ {
 		if s[i] != s[length-i-1] {
 			return false
+
 		}
 	}
 	return true
